@@ -18,5 +18,7 @@ ML-based categorization and an LLM-powered finance chatbot.
 - [ ] LLM finance chatbot
 - [ ] Spending analytics dashboard
 
+![Architecture Diagram](Architecture_diagram.png)
+
 ## Status
 🚧 Currently in development — Day 1
